@@ -1,0 +1,24 @@
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\x86\leptonica-1.80.0.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\x86\tesseract41.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\x64\leptonica-1.80.0.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\x64\tesseract41.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\SMT OCR.exe
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\SMT OCR.deps.json
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\SMT OCR.runtimeconfig.json
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\SMT OCR.runtimeconfig.dev.json
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\SMT OCR.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\ref\SMT OCR.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\SMT OCR.pdb
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\bin\Debug\net5.0-windows\Tesseract.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT_OCR.Form1.resources
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.AssemblyInfo.cs
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.csproj.CopyComplete
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\ref\SMT OCR.dll
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.pdb
+C:\Users\samet\source\repos\SMT OCR\SMT OCR\obj\Debug\net5.0-windows\SMT OCR.genruntimeconfig.cache

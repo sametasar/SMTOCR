@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0YNu0mZBPBL7O88KjLh2N8n1qLh5bYH/zLo06AkOKeyKyC9L/W73RDWzQy2lkwXuToGYKcu+QzdYFwxPIZ1wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samet\\source\\repos\\SMT OCR\\SMT OCR\\SMT OCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samet\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\samet\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
